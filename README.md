@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/idwiu9ymp5pa0i60?svg=true)](https://ci.appveyor.com/project/xiaobai-pan/thrift)
+
+
 Apache Thrift
 =============
 
